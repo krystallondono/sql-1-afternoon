@@ -15,19 +15,31 @@ Any new tables or records that we add into the database will be removed after yo
     * id should be an auto-incrementing id/primary key - Use type: SERIAL
 2. Add 5 different people into the person database. 
     * Remember to not include the person_id because it should auto-increment.
+    X
 3. List all the people in the person table by height from tallest to shortest.
+    X
 4. List all the people in the person table by height from shortest to tallest.
+    X
 5. List all the people in the person table by age from oldest to youngest.
+    X
 6. List all the people in the person table older than age 20.
+    X
 7. List all the people in the person table that are exactly 18.
+    X
 8. List all the people in the person table that are less than 20 and older than 30.
+    X
 9. List all the people in the person table that are not 27 (Use not equals).
+    x
 10. List all the people in the person table where their favorite color is not red.
+    X
 11. List all the people in the person table where their favorite color is not red and is not blue.
+    X
 12. List all the people in the person table where their favorite color is orange or green.
+    X
 13. List all the people in the person table where their favorite color is orange, green or blue (use IN).
+    X
 14. List all the people in the person table where their favorite color is yellow or purple (use IN).
-
+    X
 ### Solution
 
 <details>
